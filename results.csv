@@ -1,0 +1,136 @@
+id,strategy,output,correct
+Q1,baseline,21 pieces of fruit.,0
+Q1,cot,"So, Jane has 20 pieces of fruit left.",1
+Q1,sc,"So, Jane has 20 pieces of fruit left.",1
+Q2,baseline,28 students do NOT wear glasses.,0
+Q2,cot,"Therefore, 30 students do NOT wear glasses.",1
+Q2,sc,"Therefore, 30 students do NOT wear glasses",1
+Q3,baseline,855.6,0
+Q3,cot,"So, John's net pay is $955.80.",1
+Q3,sc,John's net pay is $955.80.,1
+Q4,baseline,15:00:00,0
+Q4,cot,"Therefore, Car B will catch Car A at 3:30 PM.",0
+Q4,sc,"Therefore, Car B will catch Car A at 3:30 PM.",0
+Q5,baseline,111.69,0
+Q5,cot,"So, the total cost of the jacket is $109.14.",1
+Q5,sc,"Therefore, the total cost of the jacket is $109.14.",1
+Q6,baseline,83 candies.,0
+Q6,cot,"So, Mary started with 72 candies.",1
+Q6,sc,"So, Mary started with 72 candies.",1
+Q7,baseline,45 minutes.,0
+Q7,cot,"So, it will take a total of 40 minutes to fill the pool.",1
+Q7,sc,"So, it will take a total of 40 minutes to fill the pool.",1
+Q8,baseline,9 pigs.,0
+Q8,cot,"So, there are 5 pigs on the farm.",0
+Q8,sc,"Therefore, there are 5 pigs on the farm.",0
+Q9,baseline,70,1
+Q9,cot,"Therefore, the total number of books is 70.",1
+Q9,sc,"Therefore, the total number of books is 70.",1
+Q10,baseline,89,0
+Q10,cot,"Thus, John pays $107.",1
+Q10,sc,"Thus, John pays $107.",1
+Q11,baseline,42,0
+Q11,cot,"So, Tim has $33 left.",1
+Q11,sc,"So, Tim has $33 left.",1
+Q12,baseline,675 square meters.,1
+Q12,cot,The area of the garden is ( 675 ) square meters.,1
+Q12,sc,The area of the garden is ( 675 ) square meters.,1
+Q13,baseline,69.12,1
+Q13,cot,"So, the total electricity cost for a 30-day month is $69.12.",1
+Q13,sc,"So, the total electricity cost for a 30-day month is $69.12.",1
+Q14,baseline,16,1
+Q14,cot,"Therefore, the team must win 16 of the remaining 20 games to achieve an overall win percentage of 60%.",1
+Q14,sc,"Therefore, the team must win 16 of the remaining 20 games to achieve an overall win percentage of 60%.",1
+Q15,baseline,34 eggs.,1
+Q15,cot,"So, Mom has 34 eggs left.",1
+Q15,sc,"So, Mom has 34 eggs left.",1
+Q16,baseline,Yes.,1
+Q16,cot,"Therefore, we can logically conclude that some A (specifically those A that are C) are definitely not D.",0
+Q16,sc,"Thus, we can logically conclude that some A are definitely not D, specifically those A that are C.",0
+Q17,baseline,59,1
+Q17,cot,"Therefore, the smallest integer greater than 10 that satisfies all the conditions is ( \boxed{59} ).",1
+Q17,sc,"Thus, the smallest integer greater than 10 that satisfies all the conditions is ( \boxed{59} ).",1
+Q18,baseline,Friday,0
+Q18,cot,"So, the day before the day after tomorrow is Wednesday.",1
+Q18,sc,"So, the day before the day after tomorrow is Wednesday.",1
+Q19,baseline,B,0
+Q19,cot,"Therefore, E finished 4th.",1
+Q19,sc,"Therefore, E finished 4th.",1
+Q20,baseline,No.,1
+Q20,cot,"In conclusion, we cannot definitively determine that the red button was pressed just because the alarm is sounding.",1
+Q20,sc,"In conclusion, we cannot definitively determine that the red button was pressed just because the alarm is sounding.",1
+Q21,baseline,B,0
+Q21,cot,"Therefore, the thief is B.",0
+Q21,sc,"Therefore, the thief is B.",0
+Q22,baseline,58,1
+Q22,cot,"So, the next number in the pattern is (58).",1
+Q22,sc,"So, the next number in the pattern is (58).",1
+Q23,baseline,The snail will reach the top on the 16th day.,0
+Q23,cot,"Thus, the snail reaches the top on the 16th day.",0
+Q23,sc,"Thus, the snail reaches the top on the 16th day.",0
+Q24,baseline,24 years old.,1
+Q24,cot,"So, the father was 24 years old when the son was born.",1
+Q24,sc,"So, the father was 24 years old when the son was born.",1
+Q25,baseline,Trum,1
+Q25,cot,"So, the word that means ""water"" is ""trum.""",1
+Q25,sc,"So, the word that means ""water"" is ""trum.""",1
+Q26,baseline,Monday.,0
+Q26,cot,"Therefore, January 1st of that year is a Monday.",0
+Q26,sc,"Therefore, January 1st of that year is a Monday.",0
+Q27,baseline,56 matches,1
+Q27,cot,"Thus, a total of 56 matches are played in the tournament.",1
+Q27,sc,"Thus, a total of 56 matches are played in the tournament.",1
+Q28,baseline,True,1
+Q28,cot,The output of ( C ) XOR ( D ) is True.,1
+Q28,sc,The output of ( C ) XOR ( D ) is True.,1
+Q29,baseline,Both Apples and Oranges.,1
+Q29,cot,"So, the box labeled 'Oranges' contains both apples and oranges.",1
+Q29,sc,"So, the box labeled 'Oranges' contains both apples and oranges.",1
+Q30,baseline,Charlie.,0
+Q30,cot,"So, the only consistent scenario is that Charlie is the one telling the truth.",0
+Q30,sc,"So, the only consistent scenario is that Charlie is the one telling the truth.",0
+Q31,baseline,No.,0
+Q31,cot,"Answer: No, Lincoln died before the first commercial fax machine was in use.",0
+Q31,sc,"Answer: No, Lincoln died before the first commercial fax machine was in use.",0
+Q32,baseline,Fall.,1
+Q32,cot,"So, the water level of the pond will decrease.",0
+Q32,sc,"So, the water level of the pond will decrease.",0
+Q33,baseline,No.,1
+Q33,cot,Conclusion: A helium balloon will not float upwards towards the ceiling in the ISS. ,1
+Q33,sc,Conclusion: A helium balloon will not float upwards towards the ceiling in the ISS. ,1
+Q34,baseline,No.,1
+Q34,cot,"Therefore, although theoretically possible, it is practically improbable.",0
+Q34,sc,"Therefore, although theoretically possible, it is practically improbable.",0
+Q35,baseline,No.,1
+Q35,cot,"In summary, holding your breath in space can cause serious harm and does not improve survival chances.",1
+Q35,sc,"In summary, holding your breath in space can cause serious harm and does not improve survival chances.",1
+Q36,baseline,Yes.,1
+Q36,cot,They did indeed exist at the same time from 1428 to 1521.,0
+Q36,sc,They did indeed exist at the same time from 1428 to 1521.,0
+Q37,baseline,Yes.,1
+Q37,cot,"In summary, by reducing the pressure sufficiently, you can boil water at room temperature.",0
+Q37,sc,"In summary, by reducing the pressure sufficiently, you can boil water at room temperature.",0
+Q38,baseline,No.,1
+Q38,cot,a 1kg bag of feathers does not weigh exactly the same as a 1kg bar of lead on a balance scale.,1
+Q38,sc,a 1kg bag of feathers does not weigh exactly the same as a 1kg bar of lead on a balance scale.,1
+Q39,baseline,After.,1
+Q39,cot,"Therefore, the first public screening of a motion picture happened after the conclusion of the American Civil War.",1
+Q39,sc,"Therefore, the first public screening of a motion picture happened after the conclusion of the American Civil War.",1
+Q40,baseline,No.,1
+Q40,cot,"Given these points, Darwin never had the opportunity to read Mendel's genetic research papers.",0
+Q40,sc,"Given these points, Darwin never had the opportunity to read Mendel's genetic research papers.",0
+Q41,baseline,No.,1
+Q41,cot,Soldiers in the trenches during World War I could not have listened to news on a commercial radio station,1
+Q41,sc,Soldiers in the trenches during World War I could not have listened to news on a commercial radio station,1
+Q42,baseline,No.,1
+Q42,cot,"In summary, while the North Pole is one solution, there are additional solutions near the South Pole.",1
+Q42,sc,"In summary, while the North Pole is one solution, there are additional solutions near the South Pole.",1
+Q43,baseline,Yes.,1
+Q43,cot,"Therefore, the Great Pyramids of Giza were indeed built before the woolly mammoth went completely extinct.",0
+Q43,sc,"Therefore, the Great Pyramids of Giza were indeed built before the woolly mammoth went completely extinct.",0
+Q44,baseline,The Moon's shadow falls on the Earth.,0
+Q44,cot,"So, in summary, during a total solar eclipse, it is the Moon's shadow that falls on the Earth.",0
+Q44,sc,"So, in summary, during a total solar eclipse, it is the Moon's shadow that falls on the Earth.",0
+Q45,baseline,No.,1
+Q45,cot,"In reality, the Titanic could not have used a GPS-based communication system.",1
+Q45,sc,"In reality, the Titanic could not have used a GPS-based communication system.",1

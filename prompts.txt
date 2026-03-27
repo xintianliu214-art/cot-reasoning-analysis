@@ -1,0 +1,540 @@
+ãQ1ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Jane has 20 apples. She gives 60% to Susan, buys 15 more, and then trades 3 apples for 2 oranges. If she eats 1 apple and 1 orange, how many pieces of fruit does she have left?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Jane has 20 apples. She gives 60% to Susan, buys 15 more, and then trades 3 apples for 2 oranges. If she eats 1 apple and 1 orange, how many pieces of fruit does she have left? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ2ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A class has 40 students. 60% are girls. 1/4 of the girls wear glasses, and 25% of the boys wear glasses. How many students do NOT wear glasses?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A class has 40 students. 60% are girls. 1/4 of the girls wear glasses, and 25% of the boys wear glasses. How many students do NOT wear glasses? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ3ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: John earns $18/hour for the first 40 hours. Overtime (up to 10 hours) is paid at 1.5x. Any hours beyond 50 are paid at 2x. He worked 52 hours. He pays a flat 10% tax on his gross earnings. What is his net pay?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: John earns $18/hour for the first 40 hours. Overtime (up to 10 hours) is paid at 1.5x. Any hours beyond 50 are paid at 2x. He worked 52 hours. He pays a flat 10% tax on his gross earnings. What is his net pay? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ4ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Car A leaves at 1:00 PM driving 60 mph. Car B leaves from the same spot at 1:30 PM in the same direction driving 75 mph. At what exact time will Car B catch Car A?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Car A leaves at 1:00 PM driving 60 mph. Car B leaves from the same spot at 1:30 PM in the same direction driving 75 mph. At what exact time will Car B catch Car A? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ5ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A $150 jacket is on sale for 20% off. You have a coupon for an additional 15% off the sale price. A 7% sales tax is applied to the final discounted price. What is the total cost?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A $150 jacket is on sale for 20% off. You have a coupon for an additional 15% off the sale price. A 7% sales tax is applied to the final discounted price. What is the total cost? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ6ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Mary gives 15 candies each to 4 friends, keeps 1/3 of what's left for herself, and the remaining 8 candies go to her brother. How many candies did she start with?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Mary gives 15 candies each to 4 friends, keeps 1/3 of what's left for herself, and the remaining 8 candies go to her brother. How many candies did she start with? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ7ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A 500-liter pool has a pipe filling it at 15 L/min and a drain emptying it at 5 L/min. After 20 minutes, the drain gets completely clogged. How long in total from the start will it take to fill the pool?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A 500-liter pool has a pipe filling it at 15 L/min and a drain emptying it at 5 L/min. After 20 minutes, the drain gets completely clogged. How long in total from the start will it take to fill the pool? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ8ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A farm has chickens, pigs, and 3 spiders (8 legs each). There are 25 heads and 84 legs in total. How many pigs are there?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A farm has chickens, pigs, and 3 spiders (8 legs each). There are 25 heads and 84 legs in total. How many pigs are there? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ9ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A bookshelf has 3 layers. Layer 1 has 20 books. Layer 2 has 1.5 times as many as Layer 1. Layer 3 has 5 fewer than the average of Layer 1 and Layer 2. What is the total number of books?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A bookshelf has 3 layers. Layer 1 has 20 books. Layer 2 has 1.5 times as many as Layer 1. Layer 3 has 5 fewer than the average of Layer 1 and Layer 2. What is the total number of books? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ10ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A pizza shop has a 'Buy 2 Get 1 Free' deal. A single pizza is $14. John needs 11 pizzas. He also has a $5 off coupon for the entire order. How much does he pay?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A pizza shop has a 'Buy 2 Get 1 Free' deal. A single pizza is $14. John needs 11 pizzas. He also has a $5 off coupon for the entire order. How much does he pay? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ11ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Tim has $100. He buys a game for $45. He invests the rest, earning a exactly 20% return. Then he spends exactly half of his total current money on a gift. How much money does he have left?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Tim has $100. He buys a game for $45. He invests the rest, earning a exactly 20% return. Then he spends exactly half of his total current money on a gift. How much money does he have left? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ12ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A rectangular garden has a perimeter of 120m. The length is exactly 3 times the width. What is the area of the garden in square meters?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A rectangular garden has a perimeter of 120m. The length is exactly 3 times the width. What is the area of the garden in square meters? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ13ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A server rack runs 24/7. It draws 800 watts per hour. Electricity costs $0.12 per kWh. What is the total electricity cost for a 30-day month?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A server rack runs 24/7. It draws 800 watts per hour. Electricity costs $0.12 per kWh. What is the total electricity cost for a 30-day month? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ14ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A team plays 40 games in a season. They won exactly 40% of their first 20 games. How many of the remaining 20 games must they win to have an overall win percentage of 60%?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A team plays 40 games in a season. They won exactly 40% of their first 20 games. How many of the remaining 20 games must they win to have an overall win percentage of 60%? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ15ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Mom bought 5 dozen eggs. Exactly 15% were cracked and thrown away. She used 1/3 of the remaining good eggs for breakfast. How many eggs are left?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Mom bought 5 dozen eggs. Exactly 15% were cracked and thrown away. She used 1/3 of the remaining good eggs for breakfast. How many eggs are left? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ16ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Some A are B. All B are C. No C are D. Can we logically conclude that some A are definitely not D?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Some A are B. All B are C. No C are D. Can we logically conclude that some A are definitely not D? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ17ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Find the smallest integer greater than 10 that leaves a remainder of 2 when divided by 3, a remainder of 3 when divided by 4, and a remainder of 4 when divided by 5.
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Find the smallest integer greater than 10 that leaves a remainder of 2 when divided by 3, a remainder of 3 when divided by 4, and a remainder of 4 when divided by 5. \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ18ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: If three days after yesterday is Thursday, what day of the week is the day before the day after tomorrow?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: If three days after yesterday is Thursday, what day of the week is the day before the day after tomorrow? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ19ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: 5 people race. A finishes ahead of B. C finishes immediately behind D. E finishes exactly between A and B in ranking. D finished first. Who finished 4th?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: 5 people race. A finishes ahead of B. C finishes immediately behind D. E finishes exactly between A and B in ranking. D finished first. Who finished 4th? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ20ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Premise: 'If the red button is pressed, the alarm sounds.' The alarm is currently sounding. Can we definitively conclude the red button was pressed?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Premise: 'If the red button is pressed, the alarm sounds.' The alarm is currently sounding. Can we definitively conclude the red button was pressed? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ21ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Four suspects. A says 'B did it.' B says 'D did it.' C says 'I didn't do it.' D says 'B is lying.' Exactly ONE person is telling the truth. Who is the thief?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Four suspects. A says 'B did it.' B says 'D did it.' C says 'I didn't do it.' D says 'B is lying.' Exactly ONE person is telling the truth. Who is the thief? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ22ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Find the next number in the pattern: 3, 4, 8, 17, 33, ?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Find the next number in the pattern: 3, 4, 8, 17, 33, ? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ23ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A snail is at the bottom of a 20-foot well. Every day it climbs up 5 feet, but at night it slips back 4 feet. On what exact day will it reach the top?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A snail is at the bottom of a 20-foot well. Every day it climbs up 5 feet, but at night it slips back 4 feet. On what exact day will it reach the top? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ24ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A father is currently 3 times as old as his son. In exactly 12 years, the father will be twice as old as the son. How old was the father when the son was born?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A father is currently 3 times as old as his son. In exactly 12 years, the father will be twice as old as the son. How old was the father when the son was born? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ25ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: In a coded language, 'glip blap' means 'blue sky', 'blap snort' means 'sky high', and 'glip trum' means 'blue water'. What specific word means 'water'?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: In a coded language, 'glip blap' means 'blue sky', 'blap snort' means 'sky high', and 'glip trum' means 'blue water'. What specific word means 'water'? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ26ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: A non-leap year has exactly 53 Tuesdays. What day of the week is January 1st of that year?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: A non-leap year has exactly 53 Tuesdays. What day of the week is January 1st of that year? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ27ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: In a tournament of 8 teams, every team plays every other team exactly twice. How many matches are played in total?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: In a tournament of 8 teams, every team plays every other team exactly twice. How many matches are played in total? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ28ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Logic Circuit: Input A is True, B is False. C = A AND (NOT B). D = (NOT A) OR B. What is the output of C XOR D?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Logic Circuit: Input A is True, B is False. C = A AND (NOT B). D = (NOT A) OR B. What is the output of C XOR D? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ29ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: You have 3 boxes labeled 'Apples', 'Oranges', and 'Both'. All three labels are incorrect. You pick one fruit from the 'Both' box and it is an Apple. What is in the box labeled 'Oranges'?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: You have 3 boxes labeled 'Apples', 'Oranges', and 'Both'. All three labels are incorrect. You pick one fruit from the 'Both' box and it is an Apple. What is in the box labeled 'Oranges'? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ30ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Alice says 'Bob is lying.' Bob says 'Charlie is lying.' Charlie says 'Alice and Bob are both lying.' Who is the only one telling the truth?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Alice says 'Bob is lying.' Bob says 'Charlie is lying.' Charlie says 'Alice and Bob are both lying.' Who is the only one telling the truth? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ31ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Was Abraham Lincoln still alive when the first commercial fax machine was invented?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Was Abraham Lincoln still alive when the first commercial fax machine was invented? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ32ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: If a person in a boat floating in a small pond throws a large, heavy stone overboard into the water, does the water level of the pond rise, fall, or stay the same?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: If a person in a boat floating in a small pond throws a large, heavy stone overboard into the water, does the water level of the pond rise, fall, or stay the same? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ33ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Will a standard helium balloon float 'upwards' towards the ceiling inside the International Space Station (ISS)?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Will a standard helium balloon float 'upwards' towards the ceiling inside the International Space Station (ISS)? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ34ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Could the last Emperor of China, Puyi, have ever theoretically seen a live performance by the Beatles?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Could the last Emperor of China, Puyi, have ever theoretically seen a live performance by the Beatles? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ35ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: If a human is exposed to the vacuum of space without a spacesuit, is it a good idea to hold their breath to survive longer?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: If a human is exposed to the vacuum of space without a spacesuit, is it a good idea to hold their breath to survive longer? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ36ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Did the Aztec Empire and Oxford University exist at the same time in history?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Did the Aztec Empire and Oxford University exist at the same time in history? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ37ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Can you boil liquid water at room temperature (25 degrees Celsius) by only manipulating the pressure?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Can you boil liquid water at room temperature (25 degrees Celsius) by only manipulating the pressure? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ38ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: On a standard balance scale in normal air, does a 1kg bag of feathers weigh exactly the same as a 1kg bar of lead?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: On a standard balance scale in normal air, does a 1kg bag of feathers weigh exactly the same as a 1kg bar of lead? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ39ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Was the first public screening of a motion picture (movie) before or after the conclusion of the American Civil War?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Was the first public screening of a motion picture (movie) before or after the conclusion of the American Civil War? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ40ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Did Charles Darwin ever have the opportunity to read the genetic research papers of Gregor Mendel?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Did Charles Darwin ever have the opportunity to read the genetic research papers of Gregor Mendel? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ41ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Could the soldiers fighting in the trenches of World War I have ever listened to news on a commercial radio station?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Could the soldiers fighting in the trenches of World War I have ever listened to news on a commercial radio station? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ42ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: If you start at a point on Earth, walk 10 miles south, 10 miles east, and 10 miles north and arrive back exactly at your starting point, are you necessarily at the North Pole?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: If you start at a point on Earth, walk 10 miles south, 10 miles east, and 10 miles north and arrive back exactly at your starting point, are you necessarily at the North Pole? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ43ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Were the Great Pyramids of Giza built before the woolly mammoth went completely extinct?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Were the Great Pyramids of Giza built before the woolly mammoth went completely extinct? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ44ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: During a total solar eclipse, does the Moon's shadow fall on the Earth, or does the Earth's shadow fall on the Moon?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: During a total solar eclipse, does the Moon's shadow fall on the Earth, or does the Earth's shadow fall on the Moon? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
+ãQ45ã
+
+ð Baseline Prompt (Give ONLY answer):
+
+Give only the final answer. Do not explain. Question: Could the RMS Titanic have theoretically sent a distress signal to another ship using a GPS-based communication system?
+
+ð CoT / SC Prompt (Step-by-step):
+
+Question: Could the RMS Titanic have theoretically sent a distress signal to another ship using a GPS-based communication system? \n\n Answer: Let's think step by step.
+
+--------------------------------------------------
+
