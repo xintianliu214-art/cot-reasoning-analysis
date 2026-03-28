@@ -42,8 +42,8 @@ The results reproduce the accuracy scores reported in the paper, including:
 
 For full experimental details, please refer to the paper.
 
-## 🔍 Reproducibility
-All experiments were conducted using GPT-4o via OpenAI Playground.
+## 🔁 Reproducibility Note
+All experiments were conducted manually using OpenAI Playground with fixed parameters. Due to API variability, minor differences in outputs may occur.
 
 ## ⚠️ Note on AI Usage
 Generative AI tools (GPT-4o, DeepSeek, Gemini) were used only for:
