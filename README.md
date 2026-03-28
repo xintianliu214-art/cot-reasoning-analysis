@@ -1,8 +1,15 @@
-# Chain-of-Thought Reasoning Analysis
+# Evaluating Chain-of-Thought Prompting on Multi-Step Reasoning
 
-This repository contains the data and materials for the term paper:
+This repository accompanies the term paper:
 
 **"Evaluating Chain-of-Thought Prompting on Multi-Step Reasoning in Large Language Models"**
+
+Author: Xintian Liu  
+University of Trier  
+
+## 📄 Paper
+
+The full paper is available as `paper.pdf` in this repository.
 
 ## 📊 Dataset
 - 45 multi-step reasoning questions
@@ -27,6 +34,13 @@ All prompt templates are provided in `prompts.txt`.
   - Ground truth answer
   - Model outputs (Baseline / CoT / SC)
   - Correctness labels
+
+The results reproduce the accuracy scores reported in the paper, including:
+- Baseline accuracy: 64.4%
+- Zero-shot CoT: 93.3%
+- Self-Consistency: 93.3%
+
+For full experimental details, please refer to the paper.
 
 ## 🔍 Reproducibility
 All experiments were conducted using GPT-4o via OpenAI Playground.
